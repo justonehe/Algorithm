@@ -18,6 +18,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -33,6 +34,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|4|[USACO 2016 February Contest, Bronze Problem 2. Circular Barn](https://github.com/justonehe/Algorithm/issues/4)|`模拟`|2023-12-19T07:56:49Z|
 |1|[AcWing 826. 单链表](https://github.com/justonehe/Algorithm/issues/1)|`单链表` `模板`|2023-12-16T02:39:59Z|
 |6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
 |3|[P1928 外星密码](https://github.com/justonehe/Algorithm/issues/3)|`递归` `洛谷`|2023-12-19T00:40:35Z|
