@@ -1,11 +1,8 @@
 # USACO 2017 US Open Contest, Bronze Problem 2. Bovine Genomics
 
-Farmer John owns N
- cows with spots and N
- cows without spots. Having just completed a course in bovine genetics, he is convinced that the spots on his cows are caused by mutations at a single location in the bovine genome.
-At great expense, Farmer John sequences the genomes of his cows. Each genome is a string of length M
- built from the four characters A, C, G, and T. When he lines up the genomes of his cows, he gets a table like the following, shown here for N=3
-:
+http://www.usaco.org/index.php?page=viewproblem2&cpid=736
+Farmer John owns N cows with spots and N cows without spots. Having just completed a course in bovine genetics, he is convinced that the spots on his cows are caused by mutations at a single location in the bovine genome.
+At great expense, Farmer John sequences the genomes of his cows. Each genome is a string of length M built from the four characters A, C, G, and T. When he lines up the genomes of his cows, he gets a table like the following, shown here for N=3:
 
 Positions:    1 2 3 4 5 6 7 ... M
 
@@ -62,5 +59,5 @@ return 0;
 ---
 
 * Link: https://github.com/justonehe/Algorithm/issues/8
-* Labels: 
+* Labels: `usaco`
 * Creation Date: 2023-12-23T02:34:34Z

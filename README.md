@@ -23,6 +23,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -38,7 +39,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|8|[USACO 2017 US Open Contest, Bronze Problem 2. Bovine Genomics](https://github.com/justonehe/Algorithm/issues/8)||2023-12-23T02:34:34Z|
+|8|[USACO 2017 US Open Contest, Bronze Problem 2. Bovine Genomics](https://github.com/justonehe/Algorithm/issues/8)|`usaco`|2023-12-23T02:34:34Z|
 |7|[P3612 [USACO17JAN] Secret Cow Code S](https://github.com/justonehe/Algorithm/issues/7)|`洛谷` `usaco` `递推`|2023-12-21T07:41:14Z|
 |5|[USACO 2015 February Contest, Bronze Problem 1. Censoring (Bronze)](https://github.com/justonehe/Algorithm/issues/5)|`字符串` `usaco` `需修改`|2023-12-19T23:58:54Z|
 |4|[USACO 2016 February Contest, Bronze Problem 2. Circular Barn](https://github.com/justonehe/Algorithm/issues/4)|`模拟`|2023-12-19T07:56:49Z|
