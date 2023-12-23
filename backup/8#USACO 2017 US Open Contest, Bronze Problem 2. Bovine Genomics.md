@@ -59,5 +59,5 @@ return 0;
 ---
 
 * Link: https://github.com/justonehe/Algorithm/issues/8
-* Labels: `usaco`
+* Labels: `usaco`, `暴力`
 * Creation Date: 2023-12-23T02:34:34Z
