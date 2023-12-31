@@ -33,6 +33,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -41,13 +42,14 @@
 |4|5|6|7|8|9|10🌟|
 |11|12|13|14|15|16🌟|17🌟|
 |18|19🌟|20|21🌟|22|23🌟|24🌟|
-|25🌟|26🌟|27🌟|28🌟|29|30|31|
+|25🌟|26🌟|27🌟|28🌟|29|30|31🌟|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|17|[USACO 2017 US Open Contest, Silver Problem 2. Bovine Genomics](https://github.com/justonehe/Algorithm/issues/17)|`usaco` `暴力`|2023-12-31T08:03:08Z|
 |16|[831. KMP字符串](https://github.com/justonehe/Algorithm/issues/16)|`模板` `AcWing` `KMP算法`|2023-12-29T14:33:57Z|
 |15|[154. 滑动窗口](https://github.com/justonehe/Algorithm/issues/15)|`AcWing` `队列` `单调队列`|2023-12-28T14:33:40Z|
 |14|[P3817 小A的糖果](https://github.com/justonehe/Algorithm/issues/14)|`洛谷` `贪心`|2023-12-27T11:28:29Z|
