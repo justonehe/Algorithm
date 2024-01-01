@@ -13,42 +13,22 @@
 
 ## 🎯 Calendar
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* 2023/12
+* 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|27🌟|28🌟|29🌟|30|1|2|3|
-|4|5|6|7|8|9|10🌟|
-|11|12|13|14|15|16🌟|17🌟|
-|18|19🌟|20|21🌟|22|23🌟|24🌟|
-|25🌟|26🌟|27🌟|28🌟|29|30|31🌟|
+|1🌟|2|3|4|5|6|7|
+|8|9|10|11|12|13|14|
+|15|16|17|18|19|20|21|
+|22|23|24|25|26|27|28|
+|29|30|31|1|2|3|4|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|18|[USACO 2015 December Contest, Bronze Problem 3. Contaminated Milk](https://github.com/justonehe/Algorithm/issues/18)|`usaco` `需修改` `暴力`|2024-01-01T03:28:58Z|
 |17|[USACO 2017 US Open Contest, Silver Problem 2. Bovine Genomics](https://github.com/justonehe/Algorithm/issues/17)|`usaco` `暴力`|2023-12-31T08:03:08Z|
 |16|[831. KMP字符串](https://github.com/justonehe/Algorithm/issues/16)|`模板` `AcWing` `KMP算法`|2023-12-29T14:33:57Z|
 |15|[154. 滑动窗口](https://github.com/justonehe/Algorithm/issues/15)|`AcWing` `队列` `单调队列`|2023-12-28T14:33:40Z|
