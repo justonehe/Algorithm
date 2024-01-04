@@ -15,11 +15,12 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1🌟|2|3🌟|4|5|6|7|
+|1🌟|2|3🌟|4🌟|5|6|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
@@ -30,6 +31,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|21|[5307. 小苹果](https://github.com/justonehe/Algorithm/issues/21)|`模拟` `AcWing`|2024-01-04T14:03:33Z|
 |20|[4993. FEB](https://github.com/justonehe/Algorithm/issues/20)|`usaco` `AcWing`|2024-01-03T11:47:04Z|
 |19|[AcWing 143. 最大异或对](https://github.com/justonehe/Algorithm/issues/19)|`AcWing` `字典树`|2024-01-01T04:36:52Z|
 |18|[USACO 2015 December Contest, Bronze Problem 3. Contaminated Milk](https://github.com/justonehe/Algorithm/issues/18)|`usaco` `需修改` `暴力`|2024-01-01T03:28:58Z|
