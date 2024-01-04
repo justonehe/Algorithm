@@ -16,6 +16,7 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -31,6 +32,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|22|[Apple Division](https://github.com/justonehe/Algorithm/issues/22)|`递归` `usaco` `全搜索`|2024-01-04T14:41:36Z|
 |21|[5307. 小苹果](https://github.com/justonehe/Algorithm/issues/21)|`模拟` `AcWing`|2024-01-04T14:03:33Z|
 |20|[4993. FEB](https://github.com/justonehe/Algorithm/issues/20)|`usaco` `AcWing`|2024-01-03T11:47:04Z|
 |19|[AcWing 143. 最大异或对](https://github.com/justonehe/Algorithm/issues/19)|`AcWing` `字典树`|2024-01-01T04:36:52Z|
