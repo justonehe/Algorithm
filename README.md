@@ -20,6 +20,7 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -35,6 +36,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|25|[5308. 公路](https://github.com/justonehe/Algorithm/issues/25)|`AcWing` `贪心`|2024-01-05T23:33:52Z|
 |24|[USACO 2015 December Contest, Bronze Problem 2. Speeding Ticket](https://github.com/justonehe/Algorithm/issues/24)|`模拟` `usaco`|2024-01-05T12:29:12Z|
 |23|[Creating Strings 创建字符串](https://github.com/justonehe/Algorithm/issues/23)|`usaco` `全排列`|2024-01-05T02:53:19Z|
 |22|[Apple Division](https://github.com/justonehe/Algorithm/issues/22)|`递归` `usaco` `全搜索`|2024-01-04T14:41:36Z|
