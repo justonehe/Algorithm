@@ -17,11 +17,12 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1🌟|2|3🌟|4🌟|5|6|7|
+|1🌟|2|3🌟|4🌟|5🌟|6|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
@@ -32,6 +33,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|23|[Creating Strings 创建字符串](https://github.com/justonehe/Algorithm/issues/23)|`usaco` `全排列`|2024-01-05T02:53:19Z|
 |22|[Apple Division](https://github.com/justonehe/Algorithm/issues/22)|`递归` `usaco` `全搜索`|2024-01-04T14:41:36Z|
 |21|[5307. 小苹果](https://github.com/justonehe/Algorithm/issues/21)|`模拟` `AcWing`|2024-01-04T14:03:33Z|
 |20|[4993. FEB](https://github.com/justonehe/Algorithm/issues/20)|`usaco` `AcWing`|2024-01-03T11:47:04Z|
