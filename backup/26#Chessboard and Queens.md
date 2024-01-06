@@ -16,39 +16,42 @@ solve 函数是递归函数，用于逐行尝试放置皇后，并通过回溯�
 在 main 函数中，首先读取棋盘的输入，然后调用 solve 函数开始解决问题，最后输出解的总数。
 这种方法利用了递归和回溯，是解决八皇后问题的一种典型和有效方式。
 ```c++
-#include<bits/stdc++.h> // 包含标准库
+#include<bits/stdc++.h>
 using namespace std;
 
-// 辅助数组，用于标记冲突
-bool col[8], diag1[16], diag2[16]; // 分别标记列和两个方向的对角线是否有皇后
-string board[8]; // 棋盘，'*'表示不能放置皇后的位置
-int ans = 0; // 存储解的数量
+// 初始化数组来记录列、对角线和棋盘
+bool col[8],diag1[16],diag2[16];
+string board[8];
+int ans=0;
 
-// 递归函数来解决八皇后问题
-void solve(int x) {
-    if (x == 8) { // 如果已经成功放置了8个皇后
-        ans++; // 增加解的计数
+// 递归函数来解决问题
+void solve(int x){
+    // 如果我们已经放置了所有8个皇后，则增加答案计数并返回
+    if(x==8) {
+        ans++;
         return;
     }
-    for (int i = 0; i < 8; i++) { // 尝试在当前行的每一列放置皇后
-        // 检查当前位置是否可以放置皇后
-        if (col[i] || diag1[i - x + 7] || diag2[i + x] || board[x][i] == '*') continue;
-        
-        // 放置皇后，并标记冲突
-        col[i] = diag1[i - x + 7] = diag2[i + x] = 1;
-        solve(x + 1); // 递归处理下一行
-        // 回溯，撤销皇后的放置
-        col[i] = diag1[i - x + 7] = diag2[i + x] = 0;
+    // 遍历当前行的所有列
+    for(int i=0;i<8;i++){
+        // 如果此列已经被占用或者放置一个皇后在这里将导致对另一个皇后的攻击，请继续转到下一列
+        if(col[i]==1 || diag1[i-x+7]==1 || diag2[i+x]==1 || board[x][i]=='*') continue;
+        // 否则，标记此列和对角线为占用，并转到下一行
+        col[i]=1,diag1[i-x+7]=1,diag2[i+x]=1;
+        solve(x+1);
+        // 回溯并取消标记此列和对角线
+        col[i]=0,diag1[i-x+7]=0,diag2[i+x]=0;
     }
 }
 
-int main() {
-    for (int i = 0; i < 8; i++) {
-        cin >> board[i]; // 输入棋盘的每一行
+int main(){
+    // 读取棋盘的初始状态
+    for(int i=0;i<8;i++){
+        cin>>board[i];
     }
-    
-    solve(0); // 从第一行开始解决问题
-    cout << ans; // 输出解的数量
+
+    // 开始解决问题
+    solve(0);
+    cout<<ans;
 
     return 0;
 }
