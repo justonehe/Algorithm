@@ -21,11 +21,12 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1🌟|2|3🌟|4🌟|5🌟|6|7|
+|1🌟|2|3🌟|4🌟|5🌟|6🌟|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
@@ -36,6 +37,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|26|[Chessboard and Queens](https://github.com/justonehe/Algorithm/issues/26)|`递归` `usaco` `dfs`|2024-01-06T01:35:22Z|
 |25|[5308. 公路](https://github.com/justonehe/Algorithm/issues/25)|`AcWing` `贪心`|2024-01-05T23:33:52Z|
 |24|[USACO 2015 December Contest, Bronze Problem 2. Speeding Ticket](https://github.com/justonehe/Algorithm/issues/24)|`模拟` `usaco`|2024-01-05T12:29:12Z|
 |23|[Creating Strings 创建字符串](https://github.com/justonehe/Algorithm/issues/23)|`usaco` `全排列`|2024-01-05T02:53:19Z|
