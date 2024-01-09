@@ -27,6 +27,7 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -42,6 +43,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|30|[843. n-皇后问题](https://github.com/justonehe/Algorithm/issues/30)|`AcWing` `dfs`|2024-01-09T07:53:40Z|
 |29|[842. 排列数字](https://github.com/justonehe/Algorithm/issues/29)|`AcWing` `dfs`|2024-01-09T07:19:35Z|
 |28|[USACO 2018 December Contest, Bronze Problem 3. Back and Forth](https://github.com/justonehe/Algorithm/issues/28)|`递归` `usaco`|2024-01-08T12:36:31Z|
 |27|[USACO 2019 December Contest, Bronze Problem 3. Livestock Lineup](https://github.com/justonehe/Algorithm/issues/27)|`usaco` `全排列`|2024-01-07T00:58:19Z|
