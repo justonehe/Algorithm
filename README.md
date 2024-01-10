@@ -28,12 +28,13 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
-|8🌟|9🌟|10|11|12|13|14|
+|8🌟|9🌟|10🌟|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|
@@ -43,6 +44,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|31|[873. 欧拉函数](https://github.com/justonehe/Algorithm/issues/31)|`模板` `AcWing` `欧拉函数`|2024-01-10T07:46:18Z|
 |30|[843. n-皇后问题](https://github.com/justonehe/Algorithm/issues/30)|`AcWing` `dfs`|2024-01-09T07:53:40Z|
 |29|[842. 排列数字](https://github.com/justonehe/Algorithm/issues/29)|`AcWing` `dfs`|2024-01-09T07:19:35Z|
 |28|[USACO 2018 December Contest, Bronze Problem 3. Back and Forth](https://github.com/justonehe/Algorithm/issues/28)|`递归` `usaco`|2024-01-08T12:36:31Z|
