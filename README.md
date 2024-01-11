@@ -31,6 +31,7 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -46,6 +47,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|34|[4968. 互质数的个数](https://github.com/justonehe/Algorithm/issues/34)|`AcWing` `欧拉函数` `快速幂`|2024-01-11T06:44:57Z|
 |33|[Associative Array](https://github.com/justonehe/Algorithm/issues/33)|`usaco` `queue`|2024-01-11T05:11:30Z|
 |32|[Distinct Numbers](https://github.com/justonehe/Algorithm/issues/32)|`usaco` `排序`|2024-01-11T04:40:54Z|
 |31|[873. 欧拉函数](https://github.com/justonehe/Algorithm/issues/31)|`模板` `AcWing` `欧拉函数`|2024-01-10T07:46:18Z|
