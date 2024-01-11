@@ -30,6 +30,7 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -45,6 +46,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|33|[Associative Array](https://github.com/justonehe/Algorithm/issues/33)|`usaco` `queue`|2024-01-11T05:11:30Z|
 |32|[Distinct Numbers](https://github.com/justonehe/Algorithm/issues/32)|`usaco` `排序`|2024-01-11T04:40:54Z|
 |31|[873. 欧拉函数](https://github.com/justonehe/Algorithm/issues/31)|`模板` `AcWing` `欧拉函数`|2024-01-10T07:46:18Z|
 |30|[843. n-皇后问题](https://github.com/justonehe/Algorithm/issues/30)|`AcWing` `dfs`|2024-01-09T07:53:40Z|
