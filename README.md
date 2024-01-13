@@ -33,12 +33,13 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
-|8🌟|9🌟|10🌟|11🌟|12🌟|13|14|
+|8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|
@@ -48,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|36|[844. 走迷宫](https://github.com/justonehe/Algorithm/issues/36)|`模板` `AcWing` `BFS`|2024-01-13T01:18:16Z|
 |35|[Problem: Kayaking](https://github.com/justonehe/Algorithm/issues/35)|`usaco` `贪心` `排序`|2024-01-12T01:42:49Z|
 |34|[4968. 互质数的个数](https://github.com/justonehe/Algorithm/issues/34)|`AcWing` `欧拉函数` `快速幂`|2024-01-11T06:44:57Z|
 |33|[Associative Array](https://github.com/justonehe/Algorithm/issues/33)|`usaco` `queue`|2024-01-11T05:11:30Z|
