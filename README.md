@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|37|[Team Tic Tac Toe](https://github.com/justonehe/Algorithm/issues/37)|`usaco` `暴力`|2024-01-13T10:17:03Z|
 |36|[844. 走迷宫](https://github.com/justonehe/Algorithm/issues/36)|`模板` `AcWing` `BFS`|2024-01-13T01:18:16Z|
 |35|[Problem: Kayaking](https://github.com/justonehe/Algorithm/issues/35)|`usaco` `贪心` `排序`|2024-01-12T01:42:49Z|
 |34|[4968. 互质数的个数](https://github.com/justonehe/Algorithm/issues/34)|`AcWing` `欧拉函数` `快速幂`|2024-01-11T06:44:57Z|
