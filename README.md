@@ -39,7 +39,7 @@
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
-|8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14|
+|8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14🌟|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|
@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|38|[USACO 2017 February Contest, Bronze Problem 3. Why Did the Cow Cross the Road III](https://github.com/justonehe/Algorithm/issues/38)|`usaco` `贪心` `排序`|2024-01-14T07:48:07Z|
 |37|[Team Tic Tac Toe](https://github.com/justonehe/Algorithm/issues/37)|`usaco` `暴力`|2024-01-13T10:17:03Z|
 |36|[844. 走迷宫](https://github.com/justonehe/Algorithm/issues/36)|`模板` `AcWing` `BFS`|2024-01-13T01:18:16Z|
 |35|[Problem: Kayaking](https://github.com/justonehe/Algorithm/issues/35)|`usaco` `贪心` `排序`|2024-01-12T01:42:49Z|
