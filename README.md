@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|40|[845. 八数码](https://github.com/justonehe/Algorithm/issues/40)|`AcWing` `BFS`|2024-01-15T08:21:45Z|
 |39|[USACO 2016 January Contest, Bronze Problem 2. Angry Cows](https://github.com/justonehe/Algorithm/issues/39)|`模拟` `usaco` `排序`|2024-01-15T07:44:18Z|
 |38|[USACO 2017 February Contest, Bronze Problem 3. Why Did the Cow Cross the Road III](https://github.com/justonehe/Algorithm/issues/38)|`usaco` `贪心` `排序`|2024-01-14T07:48:07Z|
 |37|[Team Tic Tac Toe](https://github.com/justonehe/Algorithm/issues/37)|`usaco` `暴力`|2024-01-13T10:17:03Z|
