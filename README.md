@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|44|[USACO 2020 February Contest, Bronze Problem 2. Mad Scientist](https://github.com/justonehe/Algorithm/issues/44)|`usaco` `贪心`|2024-01-17T03:29:11Z|
 |43|[869. 试除法求约数](https://github.com/justonehe/Algorithm/issues/43)|`AcWing` `数学`|2024-01-17T03:07:09Z|
 |42|[867. 分解质因数](https://github.com/justonehe/Algorithm/issues/42)|`AcWing` `数学`|2024-01-16T09:42:22Z|
 |41|[Studying Algorithms](https://github.com/justonehe/Algorithm/issues/41)|`usaco` `贪心`|2024-01-15T12:20:25Z|
