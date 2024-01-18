@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|46|[USACO 2018 February Contest, Silver Problem 1. Rest Stops](https://github.com/justonehe/Algorithm/issues/46)|`usaco` `贪心`|2024-01-18T08:08:37Z|
 |45|[USACO 2017 January Contest, Bronze Problem 3. Cow Tipping](https://github.com/justonehe/Algorithm/issues/45)|`usaco` `贪心`|2024-01-18T04:05:40Z|
 |44|[USACO 2020 February Contest, Bronze Problem 2. Mad Scientist](https://github.com/justonehe/Algorithm/issues/44)|`usaco` `贪心`|2024-01-17T03:29:11Z|
 |43|[869. 试除法求约数](https://github.com/justonehe/Algorithm/issues/43)|`AcWing` `数学`|2024-01-17T03:07:09Z|
