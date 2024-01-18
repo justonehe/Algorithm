@@ -40,7 +40,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
 |8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14🌟|
-|15🌟|16🌟|17🌟|18|19|20|21|
+|15🌟|16🌟|17🌟|18🌟|19|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|
 
@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|45|[USACO 2017 January Contest, Bronze Problem 3. Cow Tipping](https://github.com/justonehe/Algorithm/issues/45)|`usaco` `贪心`|2024-01-18T04:05:40Z|
 |44|[USACO 2020 February Contest, Bronze Problem 2. Mad Scientist](https://github.com/justonehe/Algorithm/issues/44)|`usaco` `贪心`|2024-01-17T03:29:11Z|
 |43|[869. 试除法求约数](https://github.com/justonehe/Algorithm/issues/43)|`AcWing` `数学`|2024-01-17T03:07:09Z|
 |42|[867. 分解质因数](https://github.com/justonehe/Algorithm/issues/42)|`AcWing` `数学`|2024-01-16T09:42:22Z|
