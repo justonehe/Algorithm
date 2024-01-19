@@ -40,7 +40,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
 |8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14🌟|
-|15🌟|16🌟|17🌟|18🌟|19|20|21|
+|15🌟|16🌟|17🌟|18🌟|19🌟|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31|
 
@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|47|[USACO 2021 January Contest, Bronze Problem 2. Even More Odd Photos](https://github.com/justonehe/Algorithm/issues/47)|`usaco` `贪心`|2024-01-19T14:09:07Z|
 |46|[USACO 2018 February Contest, Silver Problem 1. Rest Stops](https://github.com/justonehe/Algorithm/issues/46)|`usaco` `贪心`|2024-01-18T08:08:37Z|
 |45|[USACO 2017 January Contest, Bronze Problem 3. Cow Tipping](https://github.com/justonehe/Algorithm/issues/45)|`usaco` `贪心`|2024-01-18T04:05:40Z|
 |44|[USACO 2020 February Contest, Bronze Problem 2. Mad Scientist](https://github.com/justonehe/Algorithm/issues/44)|`usaco` `贪心`|2024-01-17T03:29:11Z|
