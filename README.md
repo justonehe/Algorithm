@@ -41,7 +41,7 @@
 |1🌟|2|3🌟|4🌟|5🌟|6🌟|7🌟|
 |8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14🌟|
 |15🌟|16🌟|17🌟|18🌟|19🌟|20🌟|21🌟|
-|22🌟|23|24|25|26|27|28|
+|22🌟|23🌟|24|25|26|27|28|
 |29|30|31|
 
 
@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|51|[905. 区间选点](https://github.com/justonehe/Algorithm/issues/51)|`AcWing` `贪心`|2024-01-23T12:02:27Z|
 |50|[USACO 2019 January Contest, Silver Problem 1. Grass Planting](https://github.com/justonehe/Algorithm/issues/50)|`usaco` `图论`|2024-01-22T05:27:47Z|
 |49|[USACO 2020 January Contest, Bronze Problem 3. Race](https://github.com/justonehe/Algorithm/issues/49)|`usaco` `贪心`|2024-01-21T04:55:42Z|
 |48|[USACO 2018 January Contest, Bronze Problem 3. Out of Place](https://github.com/justonehe/Algorithm/issues/48)|`usaco` `贪心` `排序`|2024-01-20T01:41:26Z|
