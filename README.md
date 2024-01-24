@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|53|[USACO 2019 January Contest, Bronze Problem 2. Sleepy Cow Sorting](https://github.com/justonehe/Algorithm/issues/53)|`usaco` `排序`|2024-01-24T06:07:48Z|
 |52|[USACO 2019 February Contest, Bronze Problem 1. Sleepy Cow Herding](https://github.com/justonehe/Algorithm/issues/52)|`模拟` `usaco`|2024-01-24T02:22:37Z|
 |51|[905. 区间选点](https://github.com/justonehe/Algorithm/issues/51)|`AcWing` `贪心`|2024-01-23T12:02:27Z|
 |50|[USACO 2019 January Contest, Silver Problem 1. Grass Planting](https://github.com/justonehe/Algorithm/issues/50)|`usaco` `图论`|2024-01-22T05:27:47Z|
