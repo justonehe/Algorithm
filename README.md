@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|56|[P1028 [NOIP2001 普及组] 数的计算](https://github.com/justonehe/Algorithm/issues/56)|`递归` `洛谷`|2024-01-26T11:05:08Z|
 |55|[P1044 [NOIP2003 普及组] 栈](https://github.com/justonehe/Algorithm/issues/55)|`洛谷` `递推`|2024-01-26T10:51:57Z|
 |54|[USACO 2018 February Contest, Bronze Problem 3. Taming the Herd](https://github.com/justonehe/Algorithm/issues/54)|`模拟` `usaco`|2024-01-25T06:56:30Z|
 |53|[USACO 2019 January Contest, Bronze Problem 2. Sleepy Cow Sorting](https://github.com/justonehe/Algorithm/issues/53)|`usaco` `排序`|2024-01-24T06:07:48Z|
