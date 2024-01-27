@@ -49,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|58|[二分图判定](https://github.com/justonehe/Algorithm/issues/58)|`dfs` `图论`|2024-01-27T10:16:27Z|
 |57|[P2437 蜜蜂路线](https://github.com/justonehe/Algorithm/issues/57)|`递归` `洛谷`|2024-01-27T06:56:07Z|
 |56|[P1028 [NOIP2001 普及组] 数的计算](https://github.com/justonehe/Algorithm/issues/56)|`递归` `洛谷`|2024-01-26T11:05:08Z|
 |55|[P1044 [NOIP2003 普及组] 栈](https://github.com/justonehe/Algorithm/issues/55)|`洛谷` `递推`|2024-01-26T10:51:57Z|
