@@ -42,13 +42,14 @@
 |8🌟|9🌟|10🌟|11🌟|12🌟|13🌟|14🌟|
 |15🌟|16🌟|17🌟|18🌟|19🌟|20🌟|21🌟|
 |22🌟|23🌟|24🌟|25🌟|26🌟|27🌟|28🌟|
-|29🌟|30|31|
+|29🌟|30🌟|31|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|61|[P1090 [NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G](https://github.com/justonehe/Algorithm/issues/61)|`洛谷` `贪心` `优先队列` `priority_queue`|2024-01-30T06:57:35Z|
 |60|[849. Dijkstra求最短路 I](https://github.com/justonehe/Algorithm/issues/60)|`模板` `AcWing` `图论` `Dijkstra算法`|2024-01-29T08:28:28Z|
 |59|[P1164 小A点菜](https://github.com/justonehe/Algorithm/issues/59)|`洛谷` `递推`|2024-01-28T06:56:53Z|
 |58|[二分图判定](https://github.com/justonehe/Algorithm/issues/58)|`dfs` `图论`|2024-01-27T10:16:27Z|
