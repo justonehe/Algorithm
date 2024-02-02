@@ -17,7 +17,7 @@
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|29|30|31|1🌟|2|3|4|
+|29|30|31|1🌟|2🌟|3|4|
 |5|6|7|8|9|10|11|
 |12|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
@@ -28,6 +28,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|64|[P1208 [USACO1.3] 混合牛奶 Mixing Milk](https://github.com/justonehe/Algorithm/issues/64)|`洛谷` `usaco` `贪心` `排序`|2024-02-02T06:23:29Z|
 |63|[P5019 [NOIP2018 提高组] 铺设道路](https://github.com/justonehe/Algorithm/issues/63)|`洛谷` `贪心`|2024-02-01T12:34:48Z|
 |62|[P1478 陶陶摘苹果（升级版）](https://github.com/justonehe/Algorithm/issues/62)|`洛谷` `贪心`|2024-01-31T11:03:21Z|
 |61|[P1090 [NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G](https://github.com/justonehe/Algorithm/issues/61)|`洛谷` `贪心` `优先队列` `priority_queue`|2024-01-30T06:57:35Z|
