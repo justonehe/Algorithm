@@ -28,6 +28,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|69|[USACO 2019 February Contest, Bronze Problem 2. The Great Revegetation](https://github.com/justonehe/Algorithm/issues/69)|`usaco` `图论`|2024-02-06T09:15:53Z|
 |68|[P1990 覆盖墙壁](https://github.com/justonehe/Algorithm/issues/68)|`洛谷` `递推`|2024-02-06T08:19:28Z|
 |67|[P4995 跳跳！](https://github.com/justonehe/Algorithm/issues/67)|`洛谷` `贪心` `排序`|2024-02-05T09:46:53Z|
 |66|[P1094 [NOIP2007 普及组] 纪念品分组](https://github.com/justonehe/Algorithm/issues/66)|`洛谷` `贪心`|2024-02-04T09:22:47Z|
