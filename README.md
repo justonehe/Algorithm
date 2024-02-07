@@ -18,7 +18,7 @@
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |29|30|31|1🌟|2🌟|3🌟|4🌟|
-|5🌟|6🌟|7|8|9|10|11|
+|5🌟|6🌟|7🌟|8|9|10|11|
 |12|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|1|2|3|
@@ -28,6 +28,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|70|[P1219 [USACO1.5] 八皇后 Checker Challenge](https://github.com/justonehe/Algorithm/issues/70)|`洛谷` `usaco` `dfs`|2024-02-07T08:51:19Z|
 |69|[USACO 2019 February Contest, Bronze Problem 2. The Great Revegetation](https://github.com/justonehe/Algorithm/issues/69)|`usaco` `图论`|2024-02-06T09:15:53Z|
 |68|[P1990 覆盖墙壁](https://github.com/justonehe/Algorithm/issues/68)|`洛谷` `递推`|2024-02-06T08:19:28Z|
 |67|[P4995 跳跳！](https://github.com/justonehe/Algorithm/issues/67)|`洛谷` `贪心` `排序`|2024-02-05T09:46:53Z|
