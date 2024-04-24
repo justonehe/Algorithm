@@ -28,6 +28,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|88|[P1116 车厢重组](https://github.com/justonehe/Algorithm/issues/88)|`洛谷` `排序`|2024-04-24T02:05:05Z|
 |87|[P1152 欢乐的跳 ](https://github.com/justonehe/Algorithm/issues/87)|`洛谷` `排序`|2024-04-24T01:21:58Z|
 |86|[完全背包问题](https://github.com/justonehe/Algorithm/issues/86)|`AcWing` `动态规划`|2024-04-01T06:42:54Z|
 |85|[01背包问题](https://github.com/justonehe/Algorithm/issues/85)|`AcWing` `动态规划`|2024-03-30T12:13:48Z|
